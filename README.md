@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Simone Soprani</h1>
-<h3 align="center">A passionate automation engineer from Italy</h3>
+<h1 align="left">Hi 👋, I'm Simone Soprani</h1>
+<h3 align="left">A passionate automation engineer from Italy</h3>
 
 - 🔭 I’m currently working on **robotics solutions to liquid sloshing mitigation**
 
