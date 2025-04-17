@@ -1,4 +1,4 @@
-## Hi there 👋
+<!--## Hi there 👋-->
 
 <!--
 **sopranisimone/sopranisimone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1P-XFv8eLwmx8Usf7ufg-Di78wXabrMrr/view?usp=sharing](https://drive.google.com/file/d/1P-XFv8eLwmx8Usf7ufg-Di78wXabrMrr/view?usp=sharing)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
