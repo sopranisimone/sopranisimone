@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **robotics solutions to liquid sloshing mitigation**
 
-- 📫 How to reach me **simonesoprani98@gmail.com**
+- 📫 How to reach me: **simonesoprani98@gmail.com**
 
-- 📄 Know about my experiences [Download my resume](https://drive.google.com/file/d/1P-XFv8eLwmx8Usf7ufg-Di78wXabrMrr/view?usp=sharing)
+- 📄 Know about my experiences: [Download my resume](https://drive.google.com/file/d/1P-XFv8eLwmx8Usf7ufg-Di78wXabrMrr/view?usp=sharing)
 
 <p align="left">
 </p>
