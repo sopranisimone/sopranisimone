@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **simonesoprani98@gmail.com**
 
-- 📄 Know about my experiences <a href="[https://drive.google.com/file/d/1P-XFv8eLwmx8Usf7ufg-Di78wXabrMrr/view?usp=sharing](https://drive.google.com/file/d/1P-XFv8eLwmx8Usf7ufg-Di78wXabrMrr/view?usp=sharing)" text-decoration:none;">Download my resume</a>
+- 📄 Know about my experiences [Download my resume](https://drive.google.com/file/d/1P-XFv8eLwmx8Usf7ufg-Di78wXabrMrr/view?usp=sharing)
 
 <p align="left">
 </p>
